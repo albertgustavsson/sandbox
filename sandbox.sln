@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello_world_cs", "hello_wor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "console_input_cpp", "console_input_cpp\console_input_cpp.vcxproj", "{32749A22-FC89-4D1D-BEE1-9057E1C5BCFF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "size_test_cpp", "size_test_cpp\size_test_cpp.vcxproj", "{91539648-8C26-48D5-995D-B8928F784A6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,18 @@ Global
 		{32749A22-FC89-4D1D-BEE1-9057E1C5BCFF}.Release|x64.Build.0 = Release|x64
 		{32749A22-FC89-4D1D-BEE1-9057E1C5BCFF}.Release|x86.ActiveCfg = Release|Win32
 		{32749A22-FC89-4D1D-BEE1-9057E1C5BCFF}.Release|x86.Build.0 = Release|Win32
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Debug|Any CPU.Build.0 = Debug|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Debug|x64.ActiveCfg = Debug|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Debug|x64.Build.0 = Debug|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Debug|x86.Build.0 = Debug|Win32
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Release|Any CPU.ActiveCfg = Release|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Release|Any CPU.Build.0 = Release|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Release|x64.ActiveCfg = Release|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Release|x64.Build.0 = Release|x64
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Release|x86.ActiveCfg = Release|Win32
+		{91539648-8C26-48D5-995D-B8928F784A6B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +81,7 @@ Global
 		{3C8F4B32-3B36-4C7F-8C29-A9998B7463FF} = {3AB73FBE-30C9-441B-BF3C-64567E6A2F3D}
 		{FA239C90-2018-4ADB-9F19-DF07F670E8F9} = {F21954DA-9E52-416E-B08B-EEEF99CAD5C2}
 		{32749A22-FC89-4D1D-BEE1-9057E1C5BCFF} = {3AB73FBE-30C9-441B-BF3C-64567E6A2F3D}
+		{91539648-8C26-48D5-995D-B8928F784A6B} = {3AB73FBE-30C9-441B-BF3C-64567E6A2F3D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9D84A934-F7FA-46CB-BB8D-417A5F02BE2C}
